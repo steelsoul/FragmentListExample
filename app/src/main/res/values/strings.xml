@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentListExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_list">Фрагмент со списком</string>
+    <string name="blank_fragment">Детальная информация</string>
+</resources>
