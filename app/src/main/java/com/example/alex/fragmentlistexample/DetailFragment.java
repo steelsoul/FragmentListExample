@@ -11,10 +11,10 @@ import android.view.ViewGroup;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class DetailedFragment extends Fragment {
+public class DetailFragment extends Fragment {
+    public static final String EXTRA_URL = "url";
 
-
-    public DetailedFragment() {
+    public DetailFragment() {
         // Required empty public constructor
     }
 
